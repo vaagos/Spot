@@ -1,0 +1,8 @@
+{
+  "label": "Architecture",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Архитектурные диаграммы системы (C1, C2) и описание внешних зависимостей."
+  }
+}

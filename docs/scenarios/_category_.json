@@ -1,0 +1,8 @@
+{
+  "label": "Scenarios",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Пользовательские сценарии с sequence-диаграммами взаимодействия компонентов."
+  }
+}

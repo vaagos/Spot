@@ -1,0 +1,8 @@
+{
+  "label": "Async Communication",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Асинхронное взаимодействие сервисов через Apache Kafka."
+  }
+}
